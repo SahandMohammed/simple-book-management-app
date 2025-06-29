@@ -18,7 +18,7 @@ A full-stack app to manage your book collection with add, view, edit, delete, an
 1. **Clone the repo**:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/SahandMohammed/simple-book-management-app.git
 cd asgmt-2
 ```
 
